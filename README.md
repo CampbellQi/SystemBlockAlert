@@ -1,1 +1,1 @@
-# SystemBlockAlert
+用block封装的基于系统的alertview，只是iOS7.0及以上
